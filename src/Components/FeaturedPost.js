@@ -20,7 +20,7 @@ function FeaturedPost(props) {
               {post.title}
             </Typography>
             <Typography variant="subtitle1" color="text.secondary">
-              23 - 03 - 2024
+              23 - 03 - 2024 -
             </Typography>
             <Typography variant="subtitle1" paragraph>
               This post is crawled from Viblo
